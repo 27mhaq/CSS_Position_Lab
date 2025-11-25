@@ -10,6 +10,7 @@ body {
     padding: 0.5em;
     border: 5px solid #ccc;
     overflow: auto;
+    
   }
   
   .sidebar {
@@ -18,6 +19,7 @@ body {
     padding: 1em;
     float: left;
     width: 150px;
+   
   }
   
   .content {
